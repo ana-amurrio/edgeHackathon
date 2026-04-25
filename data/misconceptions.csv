@@ -1,0 +1,101 @@
+misconception_id,misconception_text,correct_answer,related_course,category
+M001,Business students don't need to take PE courses,All undergrads need 2 PE units unless their major has an approved waiver; check with your advisor,KIN 100,PE Requirement
+M002,KIN 2 counts as both PE units so you only need that one course,KIN 2 is 3 units of GE health content not an activity course; KIN 100 or KIN 105 fulfill the PE activity requirement,KIN 2,PE Requirement
+M003,Any fitness class on campus counts toward the PE requirement,Only approved KIN activity courses listed in the catalog satisfy the 2-unit PE requirement,KIN 105,PE Requirement
+M004,MIS students automatically get a PE waiver because it is a business major,Only specific concentrations have approved PE waivers; MIS students should verify with the Lucas College advising office,KIN 100,PE Requirement
+M005,You can take PE courses after you have completed all other graduation requirements,PE courses can be taken any semester but are recommended early to avoid last-minute surprises,KIN 105,PE Requirement
+M006,Any English course satisfies the GWAR requirement,Only designated WID courses like ENGL 100WB COMM 100W or LLD 100WB satisfy GWAR for business students,ENGL 100WB,GWAR
+M007,ENGL 1B fulfills the GWAR requirement,ENGL 1B is a lower-division GE course; GWAR requires a separate upper-division writing-in-the-discipline course,ENGL 1B,GWAR
+M008,You can take ENGL 100WB before completing ENGL 2,ENGL 2 is a prerequisite for ENGL 100WB; students must complete it first with a C or better,ENGL 100WB,GWAR
+M009,GWAR only needs a passing grade D or above,GWAR courses require a grade of C or better to satisfy the requirement,COMM 100W,GWAR
+M010,Transfer students who completed a writing course at community college do not need GWAR,GWAR must be completed at SJSU unless an official articulation agreement covers the specific WID course,LLD 100WB,GWAR
+M011,You can take BUS4 110A without first taking BUS4 92,BUS4 92 is a required prerequisite for BUS4 110A; you must pass it with C or better first,BUS4 110A,Prerequisites
+M012,BUS4 110B can be taken at the same time as BUS4 110A,BUS4 110A must be completed before enrolling in BUS4 110B; they are sequential not concurrent,BUS4 110B,Prerequisites
+M013,Any programming experience waives BUS4 92,Prior programming experience does not automatically waive BUS4 92; a formal substitution petition is required,BUS4 92,Prerequisites
+M014,BUS4 112 has no prerequisites so you can take it in your first semester,BUS4 112 requires BUS4 110A which itself requires BUS4 92 and BUS3 12; plan for at least two prior semesters,BUS4 112,Prerequisites
+M015,You can register for BUS4 119B without completing BUS3 189,BUS4 119B requires both BUS4 110B and BUS3 189 as prerequisites,BUS4 119B,Prerequisites
+M016,BUS4 118D Big Data only requires BUS4 112,BUS4 118D requires BUS4 112 as required and BUS2 190 as recommended; plan both before enrolling,BUS4 118D,Prerequisites
+M017,You can take BUS4 116 before BUS4 112,BUS4 116 Advanced Database requires BUS4 112 as a hard prerequisite,BUS4 116,Prerequisites
+M018,BUS4 118B Business Intelligence has no statistics prerequisite,BUS4 118B requires BUS2 190 which itself requires BUS2 90; statistics background is essential,BUS4 118B,Prerequisites
+M019,BUS4 111 Networking can be taken before any other MIS course,BUS4 111 requires BUS4 110A as a prerequisite; take 110A first,BUS4 111,Prerequisites
+M020,The MIS practicum BUS4 119A can be taken in sophomore year,BUS4 119A requires BUS4 119B which depends on several earlier MIS courses; it is typically a senior-year course,BUS4 119A,Prerequisites
+M021,BUS4 118W Web Computing only needs BUS4 110A,BUS4 118W requires BUS4 92 as required and BUS4 110A as recommended; plan both,BUS4 118W,Prerequisites
+M022,BUS4 113 Systems Integration can be taken alongside BUS4 111,BUS4 113 requires BUS4 111 as a prerequisite; 111 must come first,BUS4 113,Prerequisites
+M023,BUS4 115 Cybersecurity has no networking prerequisite,BUS4 115 requires BUS4 111 Networking as a prerequisite,BUS4 115,Prerequisites
+M024,BUS4 117 ERP only needs database knowledge,BUS4 117 requires BUS4 112 as required and BUS4 110B as recommended,BUS4 117,Prerequisites
+M025,BUS4 114 IT Project Management can be taken after only BUS4 110A,BUS4 114 requires BUS4 110B Systems Analysis as a prerequisite,BUS4 114,Prerequisites
+M026,BUS3 189 Strategic Management can be taken in junior year,BUS3 189 requires all five upper-division business fundamentals courses; it is a senior capstone,BUS3 189,Prerequisites
+M027,BUS1 170 Finance has no accounting prerequisite,BUS1 170 requires both BUS1 20 Financial Accounting and BUS2 90 Business Statistics,BUS1 170,Prerequisites
+M028,BUS2 190 Business Analytics only requires calculus,BUS2 190 requires BUS2 90 Business Statistics as its prerequisite,BUS2 190,Prerequisites
+M029,You can substitute BUS3 10 for BUS3 12 if you are not a transfer student,BUS3 10 is only an approved substitute for BUS3 12 for transfer students; continuing students must take BUS3 12,BUS3 12,Prerequisites
+M030,STAT 95 can replace BUS2 90 for all students,STAT 95 can substitute for BUS2 90 only for transfer students who earned a C or better,BUS2 90,Prerequisites
+M031,BUS2 130 Marketing has no first-year experience prerequisite,BUS2 130 requires BUS3 12 Business First Year Experience as a prerequisite,BUS2 130,Prerequisites
+M032,BUS5 187 Global Business can be taken before marketing and management courses,BUS5 187 requires both BUS2 130 and BUS3 160 as prerequisites,BUS5 187,Prerequisites
+M033,BUS1 21 Managerial Accounting can be taken without financial accounting,BUS1 21 requires BUS1 20 Financial Accounting as a prerequisite,BUS1 21,Prerequisites
+M034,BUS2 193 Marketing Analytics has no statistics prerequisite,BUS2 193 requires both BUS2 130 and BUS2 190 as prerequisites,BUS2 193,Prerequisites
+M035,BUS5 140 Operations Management can be taken in freshman year,BUS5 140 requires BUS3 12 as a prerequisite; it is a sophomore-level course at earliest,BUS5 140,Prerequisites
+M036,ECON 1A counts toward GE Area 2 Math,ECON 1A satisfies GE Area 4 Social Sciences not Area 2 which requires a math or statistics course,ECON 1A,GE Requirements
+M037,You only need one science course to satisfy GE Area 5,GE Area 5 requires both a lecture and lab component; check specific course listings for approved combinations,BIOL 10,GE Requirements
+M038,PHIL 186 satisfies GE Area 3B Humanities,PHIL 186 satisfies GE Upper Division Area 4 not lower-division Area 3B,PHIL 186,GE Requirements
+M039,HIST 15 only counts for American Institutions and not for GE,HIST 15 satisfies both American Institutions US1 and the upper-division Integration requirement simultaneously,HIST 15,GE Requirements
+M040,ECON 1B can substitute for ECON 1A in the major preparation,ECON 1A Macroeconomics and ECON 1B Microeconomics are separate required courses; neither substitutes for the other,ECON 1B,GE Requirements
+M041,Taking ENGL 2 satisfies both GE Area 1B and the GWAR requirement,ENGL 2 satisfies GE Area 1B but does NOT satisfy GWAR; a separate WID upper-division course is still required,ENGL 2,GE Requirements
+M042,Any upper-division course in Area 4 satisfies the American Institutions requirement,American Institutions requires specific US history and government courses; not all Area 4 courses qualify,POLS 1,GE Requirements
+M043,MATH 32 Calculus III gives more GE credit than MATH 70,Both satisfy GE Area 2 equally; MATH 32 is more advanced but does not grant additional GE units,MATH 70,GE Requirements
+M044,You can double-count a course for both GE Area 4 and American Institutions freely,Double counting is allowed only for designated courses like ECON 1B for Area 4 and specific history/government courses,ECON 1B,GE Requirements
+M045,SOCI 1 satisfies GE Area 5 Natural Sciences,SOCI 1 satisfies GE Area 4 Social Sciences and can also count for American Institutions US3,SOCI 1,GE Requirements
+M046,You only need 120 units to graduate regardless of grade distribution,You need 120 units AND a minimum 2.0 GPA AND all major requirements with C or better in major courses,BUS3 189,Graduation Requirements
+M047,Upper-division courses taken at a community college count toward the 40 upper-div requirement,Upper-division units must be earned at a 4-year institution; community college courses are lower-division,BUS4 110A,Graduation Requirements
+M048,You need 30 units in residence but they can all be lower-division,Of the 30 units in residence 24 must be upper-division and 12 must be in your major,BUS4 119B,Graduation Requirements
+M049,A D grade in a major course counts toward graduation,All major and concentration courses require a C or better; a D does not count and the course must be retaken,BUS4 112,Graduation Requirements
+M050,Transfer units from a 4-year university always count as upper-division,Upper-division designation depends on the course level at the originating institution; verify with the registrar,BUS4 110B,Graduation Requirements
+M051,You can apply for graduation after completing 90 units,SJSU requires you to apply for graduation once you have 90 units but commencement occurs only after all requirements are met,BUS3 189,Graduation Requirements
+M052,PHIL 186 Ethics can be skipped if you already took an ethics course elsewhere,PHIL 186 is a required course in the upper-division integration block; transfer equivalents require a formal petition,PHIL 186,Graduation Requirements
+M053,You need only 12 upper-division units in your major for the BS degree,The BS requires 18 upper-division units in the major; the BA requires 12; MIS is a BS program,BUS4 119B,Graduation Requirements
+M054,Internship credits from BUS4 119C automatically count toward concentration requirements,BUS4 119C counts as a University Elective not a required concentration course; verify with your advisor,BUS4 119C,Graduation Requirements
+M055,You can retake a major course as Credit/No Credit to raise your GPA,Major courses required with a C or better must be taken for a letter grade; CR/NC does not satisfy the grade requirement,BUS4 110A,Graduation Requirements
+M056,The MIS concentration only requires five courses,MIS requires 21 units of required courses plus a practicum plus 6 units of additional electives totaling 27 units,BUS4 110A,Program Planning
+M057,BUS4 118S Special Topics always covers the same content each semester,BUS4 118S content rotates each semester; check the current schedule of classes for the specific topic offered,BUS4 118S,Program Planning
+M058,You must take BUS4 119H Honors Practicum II to graduate with honors,BUS4 119H is one option for the practicum requirement; BUS4 119A regular practicum is equally valid for graduation,BUS4 119H,Program Planning
+M059,BUS4 118I AI for Social Good counts as a technical elective only,BUS4 118I satisfies the MIS additional elective requirement and also addresses ethical AI themes,BUS4 118I,Program Planning
+M060,You can complete the MIS concentration in one year if you take all courses concurrently,MIS courses have sequential prerequisites; BUS4 92 to 110A to 110B to 119B alone spans at minimum three semesters,BUS4 92,Program Planning
+M061,Cloud computing BUS4 118A does not count toward any graduation requirement,BUS4 118A satisfies the MIS Concentration Additional Elective requirement; two such electives are needed,BUS4 118A,Program Planning
+M062,BUS5 181 Entrepreneurship is only for entrepreneurship majors,BUS5 181 is open to all business students and is an approved MIS additional elective option,BUS5 181,Program Planning
+M063,There is only one valid course sequence for completing the MIS concentration,Multiple valid sequences exist; required and recommended prerequisites give scheduling flexibility,BUS4 119B,Program Planning
+M064,ERP systems knowledge BUS4 117 is optional and rarely tested in job interviews,SAP/ERP skills are highly sought by employers; BUS4 117 is a recommended elective for enterprise IT roles,BUS4 117,Program Planning
+M065,IT Project Management BUS4 114 is only useful for project managers not developers,BUS4 114 teaches Agile and Scrum which are used daily by developers analysts and all IT team members,BUS4 114,Program Planning
+M066,MATH 32 Calculus III is required for the MIS program,MATH 32 is not required; MATH 70 or a Calculus I equivalent satisfies the math requirement for MIS,MATH 70,Prerequisites
+M067,Business Statistics BUS2 90 is the same course as STAT 95,STAT 95 may substitute for BUS2 90 for transfer students with C or better but they are different courses,BUS2 90,Prerequisites
+M068,You do not need any math background to take BUS2 90,BUS2 90 requires MATH 70 or equivalent as a prerequisite,BUS2 90,Prerequisites
+M069,MATH 71 is harder than MATH 70 and covers more material,MATH 71 is a calculus-track alternative to MATH 70 for business; they satisfy the same GE Area 2 requirement,MATH 71,Prerequisites
+M070,ECON 101 Intermediate Microeconomics satisfies the same requirement as ECON 1B,ECON 101 is an upper-division elective; ECON 1B is a separate required major preparation course,ECON 101,GE Requirements
+M071,You can declare MIS as a concentration in your senior year without issue,Declaring late means completing sequential MIS prerequisites is nearly impossible; declare by sophomore year,BUS4 92,Program Planning
+M072,Completing 120 units is sufficient to walk at commencement,All academic GE major residence GWAR and PE requirements must be met; unit count alone is not sufficient,KIN 100,Graduation Requirements
+M073,You only need to take BUS3 80 Legal Environment if you want to go into law,BUS3 80 is a required lower-division core course for all business students regardless of career goals,BUS3 80,Prerequisites
+M074,BUS4 91L Computer Tools is too basic and can be waived by demonstrating Excel skills,BUS4 91L is a required 1-unit core course; demonstrated skills do not automatically waive it without a formal petition,BUS4 91L,Prerequisites
+M075,Supply Chain Management BUS5 142 is only relevant for operations concentrations,BUS5 142 is a strong elective for MIS students because ERP systems heavily involve supply chain modules,BUS5 142,Program Planning
+M076,BUS3 162 Cross-Cultural Management has no prerequisite,BUS3 162 requires BUS3 160 Fundamentals of Management as a prerequisite,BUS3 162,Prerequisites
+M077,You can substitute BUS2 194 Predictive Analytics for BUS2 90 Business Statistics,BUS2 194 is an upper-division elective that requires BUS2 90; it does not substitute for the lower-division requirement,BUS2 194,Prerequisites
+M078,All BUS4 118x courses are equivalent and interchangeable electives,BUS4 118x courses cover different topics; each has its own prerequisites and some require specific prior courses,BUS4 118B,Program Planning
+M079,PHIL 186 can be taken before completing lower-division GE,PHIL 186 is an upper-division course; students should complete lower-division GE and major prep before enrolling,PHIL 186,GE Requirements
+M080,BUS3 191 Business Consulting counts as the MIS practicum requirement,BUS3 191 is a management consulting elective; the MIS practicum is specifically BUS4 119A or BUS4 119H,BUS4 119A,Program Planning
+M081,You can take BUS3 189 Strategic Management in junior year if you have 60 units,BUS3 189 requires all five upper-division business fundamentals courses as prerequisites regardless of unit count,BUS3 189,Prerequisites
+M082,LLD 100WB is only for international students,LLD 100WB is open to all business students and is one of three approved GWAR options,LLD 100WB,GWAR
+M083,BUS2 192 Business Process Management can be taken before BUS5 140,BUS2 192 requires BUS5 140 Operations Management as a prerequisite,BUS2 192,Prerequisites
+M084,Digital Marketing BUS2 132 satisfies the MIS additional elective requirement,BUS2 132 is a marketing elective satisfying University Elective credit not the MIS concentration elective block,BUS2 132,Program Planning
+M085,You only need ECON 1A or ECON 1B not both for major preparation,Both ECON 1A and ECON 1B are required separately in the major preparation block for the MIS BS,ECON 1A,GE Requirements
+M086,Online courses from SJSU do not count as units in residence,SJSU Online courses count as units in residence as long as you are enrolled as an SJSU student,BUS4 118A,Graduation Requirements
+M087,All courses taken at a CSU campus count as SJSU residence units,Residence units must be earned through SJSU enrollment; courses at other CSU campuses do not count,BUS3 189,Graduation Requirements
+M088,Transfer students only need 90 more units after transfer to graduate,The number of additional units depends on transfer credit evaluation; 30 of the final units must be in residence,BUS4 110A,Graduation Requirements
+M089,Community college courses numbered 100 or higher are upper-division,California community colleges only offer lower-division coursework; all CC courses transfer as lower-division at SJSU,BUS4 112,Graduation Requirements
+M090,If you transfer with an AA-T all your GE is done,An AA-T satisfies lower-division GE but you still need upper-division GE GWAR PE and major requirements,ENGL 100WB,Graduation Requirements
+M091,AP credit from high school automatically satisfies SJSU major prerequisites,AP credit may satisfy GE requirements but major prerequisites must be evaluated individually by the department,BUS1 20,Graduation Requirements
+M092,You can complete your final 30 units through online courses at another university,The final 30 units must be completed at SJSU in residence; they cannot be taken at another institution,BUS4 119B,Graduation Requirements
+M093,Transfer credit for a database course automatically satisfies BUS4 112,Transfer course equivalencies for major courses must be approved by the MIS department; not automatic,BUS4 112,Graduation Requirements
+M094,You do not need advisor approval to substitute one major course for another,All major course substitutions require a formal petition approved by your department advisor,BUS4 110A,Graduation Requirements
+M095,Taking more than 120 units automatically qualifies you for graduation,Unit count is one criterion; all specific graduation requirements must still be individually satisfied,BUS3 189,Graduation Requirements
+M096,BUS2 198 Business Capstone can replace BUS3 189 Strategic Management,BUS2 198 is an analytics capstone elective; BUS3 189 is a separate required course in the integration block,BUS3 189,Program Planning
+M097,You can take the MIS practicum BUS4 119A without completing BUS4 119B,BUS4 119A requires BUS4 119B as a direct prerequisite; both the strategy and systems courses must come first,BUS4 119A,Prerequisites
+M098,BUS3 191 Business Consulting Practicum counts as a senior capstone replacing BUS3 189,BUS3 191 is an elective practicum; BUS3 189 Strategic Management is still required as a separate course,BUS3 191,Program Planning
+M099,The MIS Internship BUS4 119C satisfies the practicum requirement,BUS4 119C is a University Elective; only BUS4 119A or BUS4 119H satisfy the MIS practicum requirement,BUS4 119C,Program Planning
+M100,Completing BUS4 119B automatically enrolls you in the practicum,BUS4 119A or 119H must be registered separately; completing 119B only satisfies the prerequisite for enrollment,BUS4 119B,Program Planning

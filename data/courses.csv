@@ -1,0 +1,101 @@
+course_code,title,units,level,department,description
+ECON 1A,Principles of Economics: Macroeconomics,3,undergraduate,Economics,Introduction to macroeconomic theory and national economic policy
+ECON 1B,Principles of Economics: Microeconomics,3,undergraduate,Economics,Microeconomic principles and market behavior analysis
+ENGL 2,Critical Thinking and Writing,3,undergraduate,English,Analytical reading and academic writing using rhetorical frameworks
+MATH 70,Mathematics for Business,3,undergraduate,Mathematics,Quantitative methods and applied mathematics for business contexts
+MATH 30,Calculus I,4,undergraduate,Mathematics,"Limits, derivatives, and introduction to integration"
+MATH 31,Calculus II,4,undergraduate,Mathematics,"Techniques of integration, sequences, and series"
+MATH 32,Calculus III,4,undergraduate,Mathematics,"Multivariable calculus, partial derivatives, and multiple integrals"
+MATH 71,Calculus for Business,3,undergraduate,Mathematics,Applied calculus concepts for business and economics students
+STAT 95,Elementary Statistics,3,undergraduate,Mathematics,Descriptive and inferential statistics with real-world applications
+ENGL 100WB,Written Communication: Business,3,undergraduate,English,Advanced business writing and professional communication skills
+COMM 100W,Writing Workshop: Writing for Influence,3,undergraduate,Communication Studies,Persuasive writing strategies for professional and public contexts
+LLD 100WB,Writing Workshop for Business Students,3,undergraduate,Linguistics and Language Dev,Business writing fluency for multilingual and transfer students
+BUS1 20,Financial Accounting,3,undergraduate,Accounting and Finance,Fundamentals of financial reporting and accounting principles
+BUS1 21,Managerial Accounting,3,undergraduate,Accounting and Finance,Cost analysis and internal reporting for managerial decision-making
+BUS3 80,Legal Environment of Business,3,undergraduate,Management,"Business law, ethics, and the regulatory environment of commerce"
+BUS2 90,Business Statistics,3,undergraduate,Business Analytics,Statistical methods applied to business data and decision-making
+BUS4 91L,Computer Tools for Business,1,undergraduate,Information Systems,"Hands-on proficiency with spreadsheets, databases, and office tools"
+BUS3 12,Business First Year Experience,3,undergraduate,Management,"Orientation to business professions, campus resources, and career paths"
+BUS3 10,Introduction to Business,3,undergraduate,Management,Survey of business functions and the modern enterprise environment
+BUS2 130,Introduction to Marketing,3,undergraduate,Marketing,"Core marketing concepts including segmentation, positioning, and the 4Ps"
+BUS5 140,Fundamentals of Operations Management,3,undergraduate,Management,"Process design, supply chains, quality management, and lean operations"
+BUS3 160,Fundamentals of Management and Org Behavior,3,undergraduate,Management,"Leadership, motivation, teamwork, and organizational dynamics"
+BUS1 170,Fundamentals of Finance,3,undergraduate,Accounting and Finance,"Time value of money, capital budgeting, and financial markets"
+BUS2 190,Fundamentals of Business Analytics,3,undergraduate,Business Analytics,Data-driven decision-making using descriptive and predictive analytics
+BUS5 187,Global Dimensions of Business,3,undergraduate,Management,"International business strategy, trade, and cross-cultural management"
+BUS3 189,Strategic Management,3,undergraduate,Management,Capstone strategy course integrating all business functional areas
+PHIL 186,Professional and Business Ethics,3,undergraduate,Philosophy,Ethical theory applied to corporate responsibility and professional conduct
+BUS4 92,Introduction to Business Programming,3,undergraduate,Information Systems,Programming logic and scripting fundamentals for business applications
+BUS4 110A,Fundamentals of Management Information Systems,3,undergraduate,Information Systems,"Role of IS in organizations, systems types, and enterprise architectures"
+BUS4 110B,Systems Analysis and Design,3,undergraduate,Information Systems,"SDLC, requirements gathering, UML modeling, and system prototyping"
+BUS4 111,Networking and Data Communications,3,undergraduate,Information Systems,"Network protocols, TCP/IP, LAN/WAN design, and cybersecurity basics"
+BUS4 112,Database Management Systems,3,undergraduate,Information Systems,"Relational database design, SQL, normalization, and query optimization"
+BUS4 119B,Business Strategy and Information Systems,3,undergraduate,Information Systems,Aligning IT strategy with business goals and competitive advantage
+BUS4 119A,Practicum in MIS,3,undergraduate,Information Systems,Applied MIS project work with industry partners and real business problems
+BUS4 119H,Honors Practicum in MIS II,3,undergraduate,Information Systems,Advanced honors-level applied project in management information systems
+BUS4 116,Advanced Database Management Systems,3,undergraduate,Information Systems,"Advanced SQL, PL/SQL, NoSQL integration, and database administration"
+BUS4 118A,Cloud Computing for Data Professionals,3,undergraduate,Information Systems,"Cloud platforms, IaaS/PaaS/SaaS, and cloud-based data workflows"
+BUS4 118B,Business Intelligence,3,undergraduate,Information Systems,"BI tools, dashboards, data warehousing, and reporting for executives"
+BUS4 118D,Big Data,3,undergraduate,Information Systems,"Hadoop, Spark, and distributed processing of large-scale datasets"
+BUS4 118H,Honors Practicum in MIS I,3,undergraduate,Information Systems,First-semester honors applied project in MIS with industry mentors
+BUS4 118I,Artificial Intelligence for Social Good,3,undergraduate,Information Systems,"AI ethics, social impact applications, and responsible AI design"
+BUS4 118S,Special Topics in MIS,3,undergraduate,Information Systems,Rotating advanced topics in management information systems
+BUS4 118W,Web Based Computing,3,undergraduate,Information Systems,"Web development, APIs, and server-side technologies for business"
+BUS5 181,Introduction to Entrepreneurship,3,undergraduate,Management,"Lean startup methodology, opportunity recognition, and venture planning"
+COMM 20,Public Speaking,3,undergraduate,Communication Studies,"Fundamentals of oral communication, speech delivery, and public address"
+COMM 40,Argumentation and Advocacy,3,undergraduate,Communication Studies,"Logical reasoning, evidence evaluation, and formal debate techniques"
+PSYC 1,Introduction to Psychology,3,undergraduate,Psychology,"Survey of major psychological theories, research methods, and applications"
+SOCI 1,Introduction to Sociology,3,undergraduate,Sociology,"Social structures, institutions, culture, and sociological theory"
+POLS 1,Introduction to Politics,3,undergraduate,Political Science,"Comparative politics, political theory, and government institutions"
+HIST 15,Essentials of U.S. History,3,undergraduate,History,Survey of American history from colonial era to the present day
+HIST 10A,World Civilization to 1500,3,undergraduate,History,"Survey of global civilizations, empires, and cultural exchange to 1500"
+GEOG 10,World Regional Geography,3,undergraduate,Geography,Physical and human geography of major world regions and cultures
+ENVS 1,Introduction to Environmental Studies,3,undergraduate,Environmental Studies,"Human-environment interaction, sustainability, and ecological literacy"
+PHYS 2A,Physics with Algebra I,3,undergraduate,Physics,"Mechanics, kinematics, and Newtonian dynamics with algebra-based methods"
+CHEM 1A,General Chemistry I,4,undergraduate,Chemistry,"Atomic structure, bonding, stoichiometry, and basic thermodynamics"
+BIOL 10,General Biology,3,undergraduate,Biology,"Cell biology, genetics, evolution, and ecosystems for non-majors"
+ART 2,Introduction to Visual Arts,3,undergraduate,Art,"Art history, visual culture, and aesthetic principles across media"
+MUS 10,Introduction to Music,3,undergraduate,Music,"Music theory fundamentals, listening skills, and global musical traditions"
+PHIL 9,Philosophers and Their Ideas,3,undergraduate,Philosophy,Survey of major Western and non-Western philosophical thinkers
+ENGL 1A,First-Year Writing,3,undergraduate,English,"Foundational academic writing, research skills, and source evaluation"
+ENGL 1B,Argument and Analysis,3,undergraduate,English,Advanced analytical writing and argumentation for academic contexts
+KIN 2,Health and Wellness,3,undergraduate,Kinesiology,"Principles of physical, mental, and social health for lifelong wellness"
+KIN 100,Individual and Dual Sports,1,undergraduate,Kinesiology,Activity course developing skills in individual and dual sport contexts
+KIN 105,Fitness and Conditioning,1,undergraduate,Kinesiology,"Strength, flexibility, and cardiovascular conditioning lab"
+BUS3 150,Human Resource Management,3,undergraduate,Management,"Staffing, training, compensation, and employee relations practices"
+BUS3 155,Organizational Change and Development,3,undergraduate,Management,"Change management theories, culture transformation, and leadership"
+BUS2 131,Consumer Behavior,3,undergraduate,Marketing,Psychological and social influences on buyer decision-making
+BUS2 132,Digital Marketing,3,undergraduate,Marketing,"SEO, social media, content strategy, and digital campaign analytics"
+BUS2 136,Sales Management,3,undergraduate,Marketing,"Sales force strategy, pipeline management, and CRM applications"
+BUS1 172,Financial Institutions and Markets,3,undergraduate,Accounting and Finance,"Structure of financial markets, banking systems, and monetary policy"
+BUS1 173,Corporate Financial Management,3,undergraduate,Accounting and Finance,"Capital structure, dividend policy, and corporate valuation techniques"
+BUS1 175,Investments,3,undergraduate,Accounting and Finance,"Portfolio theory, asset pricing, securities analysis, and risk management"
+BUS5 142,Supply Chain Management,3,undergraduate,Management,"End-to-end supply chain design, logistics, and inventory optimization"
+BUS5 144,Project Management,3,undergraduate,Management,"Project planning, scheduling, budgeting, and Agile/Waterfall methodologies"
+BUS5 183,New Venture Development,3,undergraduate,Management,"Business plan development, financial projections, and pitch preparation"
+BUS5 185,Social Entrepreneurship,3,undergraduate,Management,"Hybrid ventures, impact measurement, and mission-driven business models"
+BUS2 193,Marketing Analytics,3,undergraduate,Business Analytics,"A/B testing, attribution modeling, and data-driven marketing strategy"
+BUS2 194,Predictive Analytics for Business,3,undergraduate,Business Analytics,"Regression, classification, and forecasting models for business use cases"
+BUS4 114,IT Project Management,3,undergraduate,Information Systems,"Agile, Scrum, and PMI frameworks applied to technology project delivery"
+BUS4 115,Cybersecurity for Business,3,undergraduate,Information Systems,"Information security risk, compliance frameworks, and incident response"
+BUS4 117,Enterprise Resource Planning Systems,3,undergraduate,Information Systems,"SAP and ERP system configuration, integration, and business processes"
+BUS4 113,Systems Integration and Architecture,3,undergraduate,Information Systems,"Middleware, APIs, SOA, and enterprise integration architecture patterns"
+BUS2 192,Business Process Management,3,undergraduate,Business Analytics,"Process modeling, automation, workflow design, and continuous improvement"
+BUS3 161,Leadership and Team Effectiveness,3,undergraduate,Management,"Theories of leadership, group dynamics, and high-performance team building"
+BUS3 162,Cross-Cultural Management,3,undergraduate,Management,"Managing diversity, global teams, and intercultural business communication"
+BUS1 120,Cost Accounting,3,undergraduate,Accounting and Finance,"Job costing, process costing, variance analysis, and activity-based costing"
+BUS1 121,Auditing,3,undergraduate,Accounting and Finance,"Audit standards, internal controls, risk assessment, and audit reporting"
+BUS3 165,Negotiation and Conflict Resolution,3,undergraduate,Management,"Negotiation tactics, mediation, and conflict management in business"
+BUS5 146,Quality Management,3,undergraduate,Management,"Six Sigma, TQM, ISO standards, and continuous quality improvement tools"
+BUS2 135,International Marketing,3,undergraduate,Marketing,"Global market entry, cross-cultural marketing, and international branding"
+BUS5 188,Business Sustainability and CSR,3,undergraduate,Management,"Corporate social responsibility, ESG reporting, and sustainable strategy"
+ECON 101,Intermediate Microeconomics,3,undergraduate,Economics,"Consumer theory, firm behavior, market structures, and welfare economics"
+ECON 102,Intermediate Macroeconomics,3,undergraduate,Economics,"National income, fiscal policy, monetary policy, and economic growth models"
+BUS4 119C,MIS Internship,3,undergraduate,Information Systems,Supervised work experience in an industry MIS or IT role
+BUS2 198,Business Capstone Project,3,undergraduate,Business Analytics,Integrative capstone applying analytics skills to a real business problem
+BUS3 191,Business Consulting Practicum,3,undergraduate,Management,Team-based consulting engagement with a local business or nonprofit
+BUS5 190,Innovation and Design Thinking,3,undergraduate,Management,Human-centered design methods applied to product and service innovation
+BUS1 176,Real Estate Finance,3,undergraduate,Accounting and Finance,"Property valuation, mortgage markets, and real estate investment analysis"
+BUS3 167,Diversity and Inclusion in Organizations,3,undergraduate,Management,"Equity, inclusion strategies, and managing diverse workplaces"
+BUS5 186,Family Business Management,3,undergraduate,Management,"Governance, succession planning, and strategy in family-owned firms"

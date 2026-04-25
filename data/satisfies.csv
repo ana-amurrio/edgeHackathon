@@ -1,0 +1,101 @@
+course_code,requirement,program
+ENGL 1A,GE Area 1A: Oral Communication,Business Administration MIS BS
+ENGL 1B,GE Area 1B: Written Communication,Business Administration MIS BS
+ENGL 2,GE Area 1B: Written Communication,Business Administration MIS BS
+COMM 20,GE Area 1A: Oral Communication,Business Administration MIS BS
+COMM 40,GE Area 1A: Oral Communication,Business Administration MIS BS
+MATH 70,GE Area 2: Mathematical Concepts,Business Administration MIS BS
+MATH 30,GE Area 2: Mathematical Concepts,Business Administration MIS BS
+MATH 31,GE Area 2: Mathematical Concepts,Business Administration MIS BS
+MATH 71,GE Area 2: Mathematical Concepts,Business Administration MIS BS
+STAT 95,GE Area 2: Mathematical Concepts,Business Administration MIS BS
+ART 2,GE Area 3A: Arts,Business Administration MIS BS
+MUS 10,GE Area 3A: Arts,Business Administration MIS BS
+PHIL 9,GE Area 3B: Humanities,Business Administration MIS BS
+HIST 10A,GE Area 3B: Humanities,Business Administration MIS BS
+ECON 1A,GE Area 4: Social Sciences,Business Administration MIS BS
+ECON 1B,GE Area 4: Social Sciences,Business Administration MIS BS
+PSYC 1,GE Area 4: Social Sciences,Business Administration MIS BS
+SOCI 1,GE Area 4: Social Sciences,Business Administration MIS BS
+POLS 1,GE Area 4: Social Sciences,Business Administration MIS BS
+GEOG 10,GE Area 4: Social Sciences,Business Administration MIS BS
+PHYS 2A,GE Area 5: Natural Sciences,Business Administration MIS BS
+CHEM 1A,GE Area 5: Natural Sciences,Business Administration MIS BS
+BIOL 10,GE Area 5: Natural Sciences,Business Administration MIS BS
+ENVS 1,GE Area 5: Natural Sciences,Business Administration MIS BS
+HIST 15,American Institutions (US 1),Business Administration MIS BS
+POLS 1,American Institutions (US 2),Business Administration MIS BS
+SOCI 1,American Institutions (US 3),Business Administration MIS BS
+ENGL 100WB,Graduation Writing Assessment Requirement (GWAR),Business Administration MIS BS
+COMM 100W,Graduation Writing Assessment Requirement (GWAR),Business Administration MIS BS
+LLD 100WB,Graduation Writing Assessment Requirement (GWAR),Business Administration MIS BS
+KIN 100,Physical Education (PE),Business Administration MIS BS
+KIN 105,Physical Education (PE),Business Administration MIS BS
+KIN 2,Physical Education (PE),Business Administration MIS BS
+ECON 1A,Major Preparation,Business Administration MIS BS
+ECON 1B,Major Preparation,Business Administration MIS BS
+ENGL 2,Major Preparation,Business Administration MIS BS
+MATH 70,Major Preparation,Business Administration MIS BS
+BUS1 20,Lower Division Core,Business Administration MIS BS
+BUS1 21,Lower Division Core,Business Administration MIS BS
+BUS3 80,Lower Division Core,Business Administration MIS BS
+BUS2 90,Lower Division Core,Business Administration MIS BS
+BUS4 91L,Lower Division Core,Business Administration MIS BS
+BUS3 12,Lower Division Core,Business Administration MIS BS
+BUS2 130,Upper Division Business Fundamentals,Business Administration MIS BS
+BUS5 140,Upper Division Business Fundamentals,Business Administration MIS BS
+BUS3 160,Upper Division Business Fundamentals,Business Administration MIS BS
+BUS1 170,Upper Division Business Fundamentals,Business Administration MIS BS
+BUS2 190,Upper Division Business Fundamentals,Business Administration MIS BS
+BUS5 187,Upper Division Business Integration and Perspectives,Business Administration MIS BS
+BUS3 189,Upper Division Business Integration and Perspectives,Business Administration MIS BS
+PHIL 186,Upper Division Business Integration and Perspectives,Business Administration MIS BS
+HIST 15,Upper Division Business Integration and Perspectives,Business Administration MIS BS
+BUS4 92,MIS Concentration Required,Business Administration MIS BS
+BUS4 110A,MIS Concentration Required,Business Administration MIS BS
+BUS4 110B,MIS Concentration Required,Business Administration MIS BS
+BUS4 111,MIS Concentration Required,Business Administration MIS BS
+BUS4 112,MIS Concentration Required,Business Administration MIS BS
+BUS4 119B,MIS Concentration Required,Business Administration MIS BS
+BUS4 119A,MIS Concentration Practicum,Business Administration MIS BS
+BUS4 119H,MIS Concentration Practicum,Business Administration MIS BS
+BUS4 116,MIS Concentration Additional Elective,Business Administration MIS BS
+BUS4 118A,MIS Concentration Additional Elective,Business Administration MIS BS
+BUS4 118B,MIS Concentration Additional Elective,Business Administration MIS BS
+BUS4 118D,MIS Concentration Additional Elective,Business Administration MIS BS
+BUS4 118H,MIS Concentration Additional Elective,Business Administration MIS BS
+BUS4 118I,MIS Concentration Additional Elective,Business Administration MIS BS
+BUS4 118S,MIS Concentration Additional Elective,Business Administration MIS BS
+BUS4 118W,MIS Concentration Additional Elective,Business Administration MIS BS
+BUS5 181,MIS Concentration Additional Elective,Business Administration MIS BS
+PHIL 186,GE Upper Division Area 4: Self Society and Equality,Business Administration MIS BS
+BUS5 187,GE Upper Division Area 3: Culture Civilization Ideas,Business Administration MIS BS
+ECON 101,GE Upper Division Area 4: Self Society and Equality,Business Administration MIS BS
+BUS3 150,University Elective,Business Administration MIS BS
+BUS3 155,University Elective,Business Administration MIS BS
+BUS2 131,University Elective,Business Administration MIS BS
+BUS2 132,University Elective,Business Administration MIS BS
+BUS2 136,University Elective,Business Administration MIS BS
+BUS1 172,University Elective,Business Administration MIS BS
+BUS1 173,University Elective,Business Administration MIS BS
+BUS1 175,University Elective,Business Administration MIS BS
+BUS5 142,University Elective,Business Administration MIS BS
+BUS5 144,University Elective,Business Administration MIS BS
+BUS5 183,University Elective,Business Administration MIS BS
+BUS5 185,University Elective,Business Administration MIS BS
+BUS2 193,University Elective,Business Administration MIS BS
+BUS2 194,University Elective,Business Administration MIS BS
+BUS4 114,University Elective,Business Administration MIS BS
+BUS4 115,University Elective,Business Administration MIS BS
+BUS4 117,University Elective,Business Administration MIS BS
+BUS4 113,University Elective,Business Administration MIS BS
+BUS2 192,University Elective,Business Administration MIS BS
+BUS3 161,University Elective,Business Administration MIS BS
+BUS3 162,University Elective,Business Administration MIS BS
+BUS1 120,University Elective,Business Administration MIS BS
+BUS1 121,University Elective,Business Administration MIS BS
+BUS3 165,University Elective,Business Administration MIS BS
+BUS5 146,University Elective,Business Administration MIS BS
+BUS2 135,University Elective,Business Administration MIS BS
+BUS5 188,University Elective,Business Administration MIS BS
+ECON 102,University Elective,Business Administration MIS BS
